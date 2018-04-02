@@ -23,10 +23,7 @@
   },
   "homepage": "https://github.com/spite/ccapture.js#readme",
   "dependencies": {
-    "glslify": "^6.1.1",
-    "requirejs": "^2.3.5"
-  },
-  "browserify": {
-    "transform": ["glslify"]
+    "browserify": "^16.1.1",
+    "glslify": "^6.1.1"
   }
 }
