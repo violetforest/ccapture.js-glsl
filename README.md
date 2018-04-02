@@ -2,7 +2,7 @@ Read the CCapture.js readme [here](https://github.com/spite/ccapture.js/)
 
 # CCapture.js-Glsl
 
-This combines the basic example from [CCapture.js](https://github.com/spite/ccapture.js/) and the [shader example](threejs.org/examples/?q=shader#webgl_shader) from Three.js to create a sandbox for recording your shaders. It uses Glslify to neatly separate the GLSL files from the three.js scene, and uses Browserify for the require.
+This combines the basic example from [CCapture.js](https://github.com/spite/ccapture.js/) and the [shader example](http://www.threejs.org/examples/?q=shader#webgl_shader) from Three.js to create a sandbox for recording your shaders. It uses Glslify to neatly separate the GLSL files from the three.js scene, and uses Browserify for the require.
 
 #### Using the code ####
 
